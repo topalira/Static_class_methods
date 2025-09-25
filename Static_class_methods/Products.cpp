@@ -49,6 +49,7 @@ void Products::Input()
 
 	cout << "enter product weight: ";
 	cin >> weight;
+	count++;
 }
 
 void Products::SetName(string n)
